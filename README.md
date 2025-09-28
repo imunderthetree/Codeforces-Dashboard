@@ -1,4 +1,4 @@
-<img width="665" height="465" alt="image" src="https://github.com/user-attachments/assets/6ff003fd-6c90-44a0-8019-9955166cc94b" /># ⚡ Codeforces Dashboard
+⚡ Codeforces Dashboard
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Dash](https://img.shields.io/badge/Dash-Framework-brightgreen)](https://dash.plotly.com/)
 [![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
