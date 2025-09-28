@@ -3,8 +3,8 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  
 [![Dash](https://img.shields.io/badge/Dash-Framework-brightgreen)](https://dash.plotly.com/)  
 [![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)  
-[![Stars](https://img.shields.io/github/stars/imunderthetree/Codeforces-Dashboard?style=social)](https://github.com/imunderthetree/Codeforces-Dashboard)  
-[![Forks](https://img.shields.io/github/forks/imunderthetree/Codeforces-Dashboard?style=social)](https://github.com/imunderthetree/Codeforces-Dashboard)  
+[![GitHub Stars](https://img.shields.io/github/stars/imunderthetree/Codeforces-Dashboard?style=flat&logo=github)](https://github.com/imunderthetree/Codeforces-Dashboard/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/imunderthetree/Codeforces-Dashboard?style=flat&logo=github)](https://github.com/imunderthetree/Codeforces-Dashboard/network/members) 
 
 A modern **interactive dashboard** built with [Dash](https://dash.plotly.com/) and [Plotly](https://plotly.com/) to visualize Codeforces user statistics, ratings, submissions, streaks, and problem recommendations.
 
