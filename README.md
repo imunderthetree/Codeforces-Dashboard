@@ -1,7 +1,14 @@
 ⚡ Codeforces Dashboard
+
+
+
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Dash](https://img.shields.io/badge/Dash-Framework-brightgreen)](https://dash.plotly.com/)
 [![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
+
+
+
+
 
 An interactive dashboard built with [Dash](https://dash.plotly.com/), [Plotly](https://plotly.com/), and [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/).
 It connects to the [Codeforces API](https://codeforces.com/api) to provide **real-time insights** into user profiles, ratings, streaks, activity heatmaps, and weak-topic recommendations.
