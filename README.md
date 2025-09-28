@@ -98,4 +98,3 @@ This project is licensed under the MIT License.
 **More Features Added soon!**
 
 * 🌐 [GitHub](https://github.com/imunderthetree)
-* 🏆 Codeforces Dashboard crafted with ❤️
